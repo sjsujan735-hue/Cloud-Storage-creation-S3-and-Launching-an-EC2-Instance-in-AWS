@@ -1,4 +1,4 @@
-# Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
+[[# Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
 ## Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
 # Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
@@ -72,3 +72,4 @@ Click Create bucket at the bottom of the page.
 # RESULT :
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
 
+](https://github.com/sjsujan735-hue/Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS.git)](https://github.com/sjsujan735-hue/Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS.git)
